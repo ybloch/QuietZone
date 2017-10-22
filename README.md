@@ -1,2 +1,2 @@
 # QuietZone
-Android Application for Quiet Zone - private policy
+Android Application for Quiet Zone - privacy policy
